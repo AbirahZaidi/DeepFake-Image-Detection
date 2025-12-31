@@ -1,0 +1,9 @@
+Flask
+tensorflow
+numpy
+pillow
+h5py
+Werkzeug
+flask-cors
+scikit-learn
+matplotlib
